@@ -4,3 +4,4 @@
 
 ### Calculator (2025)
 
+Detaile
