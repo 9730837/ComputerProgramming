@@ -8,7 +8,7 @@ This is a digital calculator interface with a dark gray background and black but
 
 
 
-![calculator](https://github.com/9730837/portfolio-p3/blob/main/images/calc.png?raw=true)
+![calculator](https://github.com/9730837/portfolio-p3/blob/main/images/calculator.png?raw=true)
 
 *   [Windows EXE]()
 *   [MacOS-intel]()
